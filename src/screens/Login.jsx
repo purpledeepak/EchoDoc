@@ -53,7 +53,7 @@ export default function Login() {
                 <div className="col-md-8">
                   <div className="mb-4">
                     <h3>Log In</h3>
-                    <p className="mb-4">Log in to Medtalk AI and Simplify Your Medical Record Management.</p>
+                    <p className="mb-4">Log in to EchoDoc and Simplify Your Medical Record Management.</p>
                   </div>
                   <form onSubmit={handleSubmit}>
                     <div className="form-group first">
