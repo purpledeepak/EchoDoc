@@ -27,7 +27,7 @@ export default function NavbarDashboard({ hospitalName }) {
       <div className="container">
         <Link className="navbar-brand" to="/" style={navbarBrandStyle}>
           <FontAwesomeIcon icon={faHospital} style={iconStyle} /> {/* Add hospital icon */}
-          {hospitalName ? hospitalName : 'MedTalk AI'}
+          {hospitalName ? hospitalName : 'EchoDoc'}
         </Link>
         {/* Logout button */}
         <Link className="btn btn-danger ms-auto" to="/login" onClick={handleLogout}>
