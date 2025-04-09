@@ -29,7 +29,7 @@ export default function NavbarDashboard({ hospitalName }) {
       <div className="container">
         <Link className="navbar-brand" to="/" style={navbarBrandStyle}>
           <FontAwesomeIcon icon={faHospital} style={iconStyle} /> {/* Add hospital icon */}
-          {hospitalName ? hospitalName : 'Medtalk AI'}
+          {hospitalName ? hospitalName : 'EchoDoc'}
         </Link>
         {/* Buttons */}
         <div className="d-flex">
