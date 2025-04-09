@@ -23,7 +23,7 @@ export default function Home() {
                   style={{ width: "80px", height: "80px" }}
                 ></lord-icon>
                 <a className="navbar-brand" style={{ fontWeight: "bold" }}>
-                  MedTalk AI
+                  EchoDoc
                 </a>
 
                 <button
@@ -65,9 +65,9 @@ export default function Home() {
               <div className="banner_text">
                 <div className="banner_text_iner">
                   <h5>Where conversations become care!</h5>
-                  <h1>MedTalk AI</h1>
+                  <h1>EchoDoc</h1>
                   <p>
-                    MedTalk AI revolutionizes medical documentation with AI and
+                    EchoDoc revolutionizes medical documentation with AI and
                     ML, simplifying patient record management for hospitals. By
                     analyzing audio recordings, it swiftly extracts key details,
                     streamlining diagnosis and eliminating manual data entry.
@@ -97,14 +97,14 @@ export default function Home() {
               <div className="about_us_text">
                 <h2>About us</h2>
                 <p>
-                  MedTalk AI is on a mission to transform healthcare
+                  EchoDoc is on a mission to transform healthcare
                   documentation. Our team of experts in artificial intelligence
                   and healthcare technology is dedicated to streamlining
                   processes, improving accuracy, and enhancing accessibility for
                   healthcare providers and patients. With our innovative
                   solution, we're redefining the way medical records are
                   created, managed, and accessed. Welcome to the future of
-                  healthcare documentation with MedTalk AI.
+                  healthcare documentation withEchoDoc.
                 </p>
                 <div className="banner_item">
                   <div className="single_item">
