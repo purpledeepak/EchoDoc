@@ -1,8 +1,6 @@
-# MedTalk AI
+# EchoDoc
 
-MedTalk AI is an SAAS app that utilizes Artificial intelligence as well as Machine learning Algorithms to streamline the process of documentation for patients in the healthcare industry automatically. 
-
-## Try Now: medtalkai.kartikeybhatnagar.tech
+Echo Doc is an SAAS app that utilizes Artificial intelligence as well as Machine learning Algorithms to streamline the process of documentation for patients in the healthcare industry automatically. 
 
 ## Key Features:
 
@@ -18,11 +16,11 @@ MedTalk AI is an SAAS app that utilizes Artificial intelligence as well as Machi
 
 ## Project Inspiration:
 
-1. **Personal Experience**: Many individuals forget their medical records which are often needed urgently. In today's rapidly digitalizing world, tools like MedTalk AI are essential to digitize and generate e-reports seamlessly.
+1. **Personal Experience**: Many individuals forget their medical records which are often needed urgently. In today's rapidly digitalizing world, tools like Echo Doc are essential to digitize and generate e-reports seamlessly.
 
-2. **Illegible Doctor's Writing**: MedTalk AI addresses the challenges of deciphering doctors' handwriting by providing clear and accurate documentation.
+2. **Illegible Doctor's Writing**: Echo Doc addresses the challenges of deciphering doctors' handwriting by providing clear and accurate documentation.
 
 3. **Assisting Small Clinics**: Streamlines the diagnosis process for patients, particularly beneficial for small clinics.
 
-MedTalk AI aims to revolutionize medical documentation and improve accessibility to healthcare information for both hospital staff and patients.
+Echo Doc aims to revolutionize medical documentation and improve accessibility to healthcare information for both hospital staff and patients.
 
