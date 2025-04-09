@@ -23,7 +23,7 @@ export default function Navbar({ hospitalName }) {
       <div className="container">
         <Link className="navbar-brand" to="/" style={navbarBrandStyle}>
           <FontAwesomeIcon icon={faHospital} style={iconStyle} /> {/* Add hospital icon */}
-          {hospitalName ? hospitalName : 'MedTalk AI'}
+          {hospitalName ? hospitalName : 'EchoDoc'}
         </Link>
         {/* Rest of the navbar content */}
       </div>
