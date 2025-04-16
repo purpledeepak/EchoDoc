@@ -67,7 +67,6 @@ def authenticate_user(username: str, password: str, db: Session):
         )
     return user
 
-#C:\Users\Kartikey\Desktop\MedTalk Ai\Backend\app.py
 # Create JWT token
 def create_access_token(data: dict, expires_delta: timedelta):
     to_encode = data.copy()
