@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-SQLALCHEMY_DATABASE_URL = "mssql+pyodbc://sa:sa@KARTIKEY-PC/Clinic?driver=ODBC+Driver+17+for+SQL+Server"
+SQLALCHEMY_DATABASE_URL = "mssql+pyodbc://sb:sa@VISHNUJI\\MSSQLSERVER01/Clinic?driver=ODBC+Driver+18+for+SQL+Server&TrustServerCertificate=yes"
 
 # Create the engine
 engine = create_engine(SQLALCHEMY_DATABASE_URL)
