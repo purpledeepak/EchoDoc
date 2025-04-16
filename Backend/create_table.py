@@ -39,7 +39,7 @@ class Login(Base):
     hospital_name = Column(String)
 
 # Database connection URL
-DATABASE_URL = "mssql+pyodbc://sa:sa@KARTIKEY-PC/Clinic?driver=ODBC+Driver+17+for+SQL+Server"
+DATABASE_URL = "mssql+pyodbc://sb:sa@VISHNUJI\\MSSQLSERVER01/Clinic?driver=ODBC+Driver+18+for+SQL+Server&TrustServerCertificate=yes"
 
 # Create engine and connect to the database
 engine = create_engine(DATABASE_URL)
