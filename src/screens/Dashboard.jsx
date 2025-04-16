@@ -68,7 +68,7 @@ export default function Dashboard() {
     navigate(`/addnewpatient/${hospital_id}`);
   };
 
-  const filteredPatients = patients.filter(patient =>
+  const filteredPatients = (patients || []).filter(patient =>
     patient.name && patient.name.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
