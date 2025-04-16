@@ -424,7 +424,7 @@ async def generate_pdf(
 
     # Generate PDF
     pdf_filename = f"patient_{patient_id}_report.pdf"
-    pdf_path = f"C:/Users/Kartikey/Desktop/test/{pdf_filename}"  # Update the path where you want to save the PDF
+    pdf_path = f"{pdf_filepath}"  # Update the path where you want to save the PDF
     
     c = canvas.Canvas(pdf_path, pagesize=letter)
     y = 750
